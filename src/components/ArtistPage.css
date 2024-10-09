@@ -1,0 +1,32 @@
+.artist-page {
+    padding: 40px;
+    background-color: #fff;
+  }
+  
+  h1 {
+    text-align: center;
+    background-color: #ff5722;
+    color: white;
+    padding: 15px 0;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+  }
+  
+  input, textarea {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  button {
+    padding: 10px;
+    background-color: #ff5722;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  

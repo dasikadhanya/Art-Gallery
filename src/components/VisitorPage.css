@@ -1,0 +1,25 @@
+.visitor-page {
+    padding: 40px;
+    background-color: #fafafa;
+  }
+  
+  h1 {
+    text-align: center;
+    background-color: #4caf50;
+    color: white;
+    padding: 15px 0;
+  }
+  
+  section {
+    margin-top: 40px;
+  }
+  
+  h2 {
+    color: #333;
+  }
+  
+  p {
+    font-size: 1.2rem;
+    color: #555;
+  }
+  
